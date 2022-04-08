@@ -2,7 +2,7 @@
 
 /**
  * main - prints ths phrase in the brackets
- * Returns 0 if successful
+ * Return: 0 if successful
  * Else, other output
  */
 int main(void)
